@@ -1,0 +1,43 @@
+{
+  "writerVersion" : "438",
+  "owner" : "trino",
+  "tableType" : "EXTERNAL_TABLE",
+  "dataColumns" : [ {
+    "name" : "patient_id",
+    "type" : "string",
+    "properties" : { }
+  }, {
+    "name" : "hospital",
+    "type" : "string",
+    "properties" : { }
+  }, {
+    "name" : "county",
+    "type" : "string",
+    "properties" : { }
+  }, {
+    "name" : "visit_date",
+    "type" : "date",
+    "properties" : { }
+  }, {
+    "name" : "disease",
+    "type" : "string",
+    "properties" : { }
+  }, {
+    "name" : "diagnosis_code",
+    "type" : "string",
+    "properties" : { }
+  } ],
+  "partitionColumns" : [ ],
+  "parameters" : {
+    "trino_version" : "438",
+    "trino_query_id" : "20260219_130838_00004_4fijv",
+    "transactional" : "false",
+    "auto.purge" : "false",
+    "EXTERNAL" : "TRUE",
+    "STATS_GENERATED_VIA_STATS_TASK" : "workaround for potential lack of HIVE-12730"
+  },
+  "storageFormat" : "PARQUET",
+  "serdeParameters" : { },
+  "externalLocation" : "s3a://curated/",
+  "columnStatistics" : { }
+}

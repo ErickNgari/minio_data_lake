@@ -1,0 +1,2501 @@
+patient_id,hospital,county,visit_date,disease,diagnosis_code
+NAI400000,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400001,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400002,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400003,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400004,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400005,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400006,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400007,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400008,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400009,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400010,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400011,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400012,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400013,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400014,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400015,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400016,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400017,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400018,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400019,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400020,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400021,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400022,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400023,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400024,Nairobi Clinic,Nairobi,2026-02-16,Dengue,A90
+NAI400025,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400026,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400027,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400028,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400029,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400030,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400031,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400032,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400033,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400034,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400035,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400036,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400037,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400038,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400039,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400040,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400041,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400042,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400043,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400044,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400045,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400046,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400047,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400048,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400049,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400050,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400051,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400052,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400053,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400054,Nairobi Clinic,Nairobi,2026-02-16,Cholera,A00
+NAI400055,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400056,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400057,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400058,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400059,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400060,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400061,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400062,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400063,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400064,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400065,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400066,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400067,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400068,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400069,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400070,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400071,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400072,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400073,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400074,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400075,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400076,Nairobi Clinic,Nairobi,2026-02-16,Cholera,A00
+NAI400077,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400078,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400079,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400080,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400081,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400082,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400083,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400084,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400085,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400086,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400087,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400088,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400089,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400090,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400091,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400092,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400093,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400094,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400095,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400096,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400097,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400098,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400099,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400100,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400101,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400102,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400103,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400104,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400105,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400106,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400107,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400108,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400109,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400110,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400111,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400112,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400113,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400114,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400115,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400116,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400117,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400118,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400119,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400120,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400121,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400122,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400123,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400124,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400125,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400126,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400127,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400128,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400129,Nairobi Clinic,Nairobi,2026-02-16,Cholera,A00
+NAI400130,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400131,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400132,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400133,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400134,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400135,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400136,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400137,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400138,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400139,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400140,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400141,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400142,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400143,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400144,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400145,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400146,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400147,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400148,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400149,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400150,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400151,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400152,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400153,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400154,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400155,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400156,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400157,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400158,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400159,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400160,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400161,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400162,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400163,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400164,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400165,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400166,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400167,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400168,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400169,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400170,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400171,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400172,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400173,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400174,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400175,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400176,Nairobi Clinic,Nairobi,2026-02-16,Dengue,A90
+NAI400177,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400178,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400179,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400180,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400181,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400182,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400183,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400184,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400185,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400186,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400187,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400188,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400189,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400190,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400191,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400192,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400193,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400194,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400195,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400196,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400197,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400198,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400199,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400200,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400201,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400202,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400203,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400204,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400205,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400206,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400207,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400208,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400209,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400210,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400211,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400212,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400213,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400214,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400215,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400216,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400217,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400218,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400219,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400220,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400221,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400222,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400223,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400224,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400225,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400226,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400227,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400228,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400229,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400230,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400231,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400232,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400233,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400234,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400235,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400236,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400237,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400238,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400239,Nairobi Clinic,Nairobi,2026-02-16,Cholera,A00
+NAI400240,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400241,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400242,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400243,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400244,Nairobi General Hospital,Nairobi,2026-02-16,Dengue,A90
+NAI400245,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400246,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400247,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400248,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400249,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400250,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400251,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400252,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400253,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400254,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400255,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400256,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400257,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400258,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400259,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400260,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400261,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400262,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400263,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400264,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400265,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400266,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400267,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400268,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400269,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400270,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400271,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400272,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400273,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400274,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400275,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400276,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400277,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400278,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400279,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400280,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400281,Nairobi Clinic,Nairobi,2026-02-16,Dengue,A90
+NAI400282,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400283,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400284,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400285,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400286,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400287,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400288,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400289,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400290,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400291,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400292,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400293,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400294,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400295,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400296,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400297,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400298,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400299,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400300,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400301,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400302,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400303,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400304,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400305,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400306,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400307,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400308,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400309,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400310,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400311,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400312,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400313,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400314,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400315,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400316,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400317,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400318,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400319,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400320,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400321,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400322,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400323,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400324,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400325,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400326,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400327,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400328,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400329,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400330,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400331,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400332,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400333,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400334,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400335,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400336,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400337,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400338,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400339,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400340,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400341,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400342,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400343,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400344,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400345,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400346,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400347,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400348,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400349,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400350,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400351,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400352,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400353,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400354,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400355,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400356,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400357,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400358,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400359,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400360,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400361,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400362,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400363,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400364,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400365,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400366,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400367,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400368,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400369,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400370,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400371,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400372,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400373,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400374,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400375,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400376,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400377,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400378,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400379,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400380,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400381,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400382,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400383,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400384,Nairobi General Hospital,Nairobi,2026-02-16,Dengue,A90
+NAI400385,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400386,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400387,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400388,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400389,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400390,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400391,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400392,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400393,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400394,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400395,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400396,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400397,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400398,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400399,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400400,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400401,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400402,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400403,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400404,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400405,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400406,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400407,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400408,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400409,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400410,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400411,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400412,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400413,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400414,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400415,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400416,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400417,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400418,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400419,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400420,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400421,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400422,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400423,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400424,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400425,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400426,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400427,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400428,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400429,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400430,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400431,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400432,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400433,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400434,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400435,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400436,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400437,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400438,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400439,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400440,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400441,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400442,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400443,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400444,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400445,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400446,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400447,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400448,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400449,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400450,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400451,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400452,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400453,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400454,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400455,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400456,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400457,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400458,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400459,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400460,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400461,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400462,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400463,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400464,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400465,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400466,Nairobi Medical Center,Nairobi,2026-02-16,Influenza,J10
+NAI400467,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400468,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400469,Nairobi General Hospital,Nairobi,2026-02-16,Influenza,J10
+NAI400470,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400471,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400472,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400473,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400474,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400475,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400476,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400477,Nairobi Medical Center,Nairobi,2026-02-16,Dengue,A90
+NAI400478,Nairobi Medical Center,Nairobi,2026-02-16,Cholera,A00
+NAI400479,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400480,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400481,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400482,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400483,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400484,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400485,Nairobi General Hospital,Nairobi,2026-02-16,Malaria,B50
+NAI400486,Nairobi General Hospital,Nairobi,2026-02-16,Typhoid,A01
+NAI400487,Nairobi Medical Center,Nairobi,2026-02-16,Typhoid,A01
+NAI400488,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400489,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400490,Nairobi Clinic,Nairobi,2026-02-16,Influenza,J10
+NAI400491,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400492,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400493,Nairobi General Hospital,Nairobi,2026-02-16,Cholera,A00
+NAI400494,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400495,Nairobi Medical Center,Nairobi,2026-02-16,Malaria,B50
+NAI400496,Nairobi Clinic,Nairobi,2026-02-16,Typhoid,A01
+NAI400497,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400498,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+NAI400499,Nairobi Clinic,Nairobi,2026-02-16,Malaria,B50
+MOM400000,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400001,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400002,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400003,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400004,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400005,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400006,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400007,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400008,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400009,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400010,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400011,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400012,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400013,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400014,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400015,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400016,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400017,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400018,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400019,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400020,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400021,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400022,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400023,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400024,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400025,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400026,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400027,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400028,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400029,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400030,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400031,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400032,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400033,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400034,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400035,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400036,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400037,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400038,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400039,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400040,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400041,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400042,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400043,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400044,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400045,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400046,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400047,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400048,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400049,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400050,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400051,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400052,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400053,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400054,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400055,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400056,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400057,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400058,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400059,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400060,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400061,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400062,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400063,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400064,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400065,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400066,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400067,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400068,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400069,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400070,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400071,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400072,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400073,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400074,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400075,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400076,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400077,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400078,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400079,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400080,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400081,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400082,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400083,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400084,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400085,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400086,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400087,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400088,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400089,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400090,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400091,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400092,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400093,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400094,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400095,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400096,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400097,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400098,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400099,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400100,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400101,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400102,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400103,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400104,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400105,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400106,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400107,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400108,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400109,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400110,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400111,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400112,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400113,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400114,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400115,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400116,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400117,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400118,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400119,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400120,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400121,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400122,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400123,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400124,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400125,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400126,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400127,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400128,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400129,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400130,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400131,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400132,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400133,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400134,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400135,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400136,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400137,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400138,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400139,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400140,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400141,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400142,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400143,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400144,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400145,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400146,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400147,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400148,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400149,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400150,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400151,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400152,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400153,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400154,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400155,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400156,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400157,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400158,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400159,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400160,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400161,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400162,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400163,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400164,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400165,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400166,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400167,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400168,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400169,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400170,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400171,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400172,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400173,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400174,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400175,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400176,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400177,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400178,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400179,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400180,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400181,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400182,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400183,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400184,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400185,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400186,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400187,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400188,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400189,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400190,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400191,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400192,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400193,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400194,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400195,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400196,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400197,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400198,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400199,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400200,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400201,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400202,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400203,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400204,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400205,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400206,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400207,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400208,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400209,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400210,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400211,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400212,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400213,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400214,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400215,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400216,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400217,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400218,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400219,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400220,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400221,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400222,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400223,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400224,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400225,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400226,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400227,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400228,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400229,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400230,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400231,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400232,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400233,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400234,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400235,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400236,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400237,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400238,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400239,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400240,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400241,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400242,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400243,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400244,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400245,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400246,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400247,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400248,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400249,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400250,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400251,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400252,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400253,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400254,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400255,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400256,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400257,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400258,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400259,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400260,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400261,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400262,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400263,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400264,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400265,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400266,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400267,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400268,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400269,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400270,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400271,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400272,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400273,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400274,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400275,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400276,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400277,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400278,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400279,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400280,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400281,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400282,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400283,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400284,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400285,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400286,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400287,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400288,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400289,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400290,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400291,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400292,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400293,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400294,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400295,Mombasa General Hospital,Mombasa,2026-02-16,Cholera,A00
+MOM400296,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400297,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400298,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400299,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400300,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400301,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400302,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400303,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400304,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400305,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400306,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400307,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400308,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400309,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400310,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400311,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400312,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400313,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400314,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400315,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400316,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400317,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400318,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400319,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400320,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400321,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400322,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400323,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400324,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400325,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400326,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400327,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400328,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400329,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400330,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400331,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400332,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400333,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400334,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400335,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400336,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400337,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400338,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400339,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400340,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400341,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400342,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400343,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400344,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400345,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400346,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400347,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400348,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400349,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400350,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400351,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400352,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400353,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400354,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400355,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400356,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400357,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400358,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400359,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400360,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400361,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400362,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400363,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400364,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400365,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400366,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400367,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400368,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400369,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400370,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400371,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400372,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400373,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400374,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400375,Mombasa Clinic,Mombasa,2026-02-16,Typhoid,A01
+MOM400376,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400377,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400378,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400379,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400380,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400381,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400382,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400383,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400384,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400385,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400386,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400387,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400388,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400389,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400390,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400391,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400392,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400393,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400394,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400395,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400396,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400397,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400398,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400399,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400400,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400401,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400402,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400403,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400404,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400405,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400406,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400407,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400408,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400409,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400410,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400411,Mombasa Medical Center,Mombasa,2026-02-16,Cholera,A00
+MOM400412,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400413,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400414,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400415,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400416,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400417,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400418,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400419,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400420,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400421,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400422,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400423,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400424,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400425,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400426,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400427,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400428,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400429,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400430,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400431,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400432,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400433,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400434,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400435,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400436,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400437,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400438,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400439,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400440,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400441,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400442,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400443,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400444,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400445,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400446,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400447,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400448,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400449,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400450,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400451,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400452,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400453,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400454,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400455,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400456,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400457,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400458,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400459,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400460,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400461,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400462,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400463,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400464,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400465,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400466,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400467,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400468,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400469,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400470,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400471,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400472,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400473,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400474,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400475,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400476,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400477,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400478,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400479,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400480,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400481,Mombasa General Hospital,Mombasa,2026-02-16,Dengue,A90
+MOM400482,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400483,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400484,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400485,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400486,Mombasa General Hospital,Mombasa,2026-02-16,Malaria,B50
+MOM400487,Mombasa General Hospital,Mombasa,2026-02-16,Influenza,J10
+MOM400488,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400489,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400490,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+MOM400491,Mombasa Medical Center,Mombasa,2026-02-16,Typhoid,A01
+MOM400492,Mombasa Medical Center,Mombasa,2026-02-16,Malaria,B50
+MOM400493,Mombasa Medical Center,Mombasa,2026-02-16,Influenza,J10
+MOM400494,Mombasa Clinic,Mombasa,2026-02-16,Dengue,A90
+MOM400495,Mombasa Clinic,Mombasa,2026-02-16,Cholera,A00
+MOM400496,Mombasa Clinic,Mombasa,2026-02-16,Influenza,J10
+MOM400497,Mombasa Medical Center,Mombasa,2026-02-16,Dengue,A90
+MOM400498,Mombasa General Hospital,Mombasa,2026-02-16,Typhoid,A01
+MOM400499,Mombasa Clinic,Mombasa,2026-02-16,Malaria,B50
+KIS400000,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400001,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400002,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400003,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400004,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400005,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400006,Kisumu General Hospital,Kisumu,2026-02-16,Dengue,A90
+KIS400007,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400008,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400009,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400010,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400011,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400012,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400013,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400014,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400015,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400016,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400017,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400018,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400019,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400020,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400021,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400022,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400023,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400024,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400025,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400026,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400027,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400028,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400029,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400030,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400031,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400032,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400033,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400034,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400035,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400036,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400037,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400038,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400039,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400040,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400041,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400042,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400043,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400044,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400045,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400046,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400047,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400048,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400049,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400050,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400051,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400052,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400053,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400054,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400055,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400056,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400057,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400058,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400059,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400060,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400061,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400062,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400063,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400064,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400065,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400066,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400067,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400068,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400069,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400070,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400071,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400072,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400073,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400074,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400075,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400076,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400077,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400078,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400079,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400080,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400081,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400082,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400083,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400084,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400085,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400086,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400087,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400088,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400089,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400090,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400091,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400092,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400093,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400094,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400095,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400096,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400097,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400098,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400099,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400100,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400101,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400102,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400103,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400104,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400105,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400106,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400107,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400108,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400109,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400110,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400111,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400112,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400113,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400114,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400115,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400116,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400117,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400118,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400119,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400120,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400121,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400122,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400123,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400124,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400125,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400126,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400127,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400128,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400129,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400130,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400131,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400132,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400133,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400134,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400135,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400136,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400137,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400138,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400139,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400140,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400141,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400142,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400143,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400144,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400145,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400146,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400147,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400148,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400149,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400150,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400151,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400152,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400153,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400154,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400155,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400156,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400157,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400158,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400159,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400160,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400161,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400162,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400163,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400164,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400165,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400166,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400167,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400168,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400169,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400170,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400171,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400172,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400173,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400174,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400175,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400176,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400177,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400178,Kisumu General Hospital,Kisumu,2026-02-16,Dengue,A90
+KIS400179,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400180,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400181,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400182,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400183,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400184,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400185,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400186,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400187,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400188,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400189,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400190,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400191,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400192,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400193,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400194,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400195,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400196,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400197,Kisumu General Hospital,Kisumu,2026-02-16,Dengue,A90
+KIS400198,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400199,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400200,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400201,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400202,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400203,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400204,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400205,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400206,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400207,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400208,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400209,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400210,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400211,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400212,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400213,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400214,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400215,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400216,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400217,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400218,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400219,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400220,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400221,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400222,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400223,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400224,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400225,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400226,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400227,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400228,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400229,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400230,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400231,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400232,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400233,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400234,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400235,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400236,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400237,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400238,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400239,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400240,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400241,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400242,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400243,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400244,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400245,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400246,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400247,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400248,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400249,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400250,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400251,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400252,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400253,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400254,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400255,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400256,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400257,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400258,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400259,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400260,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400261,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400262,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400263,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400264,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400265,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400266,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400267,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400268,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400269,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400270,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400271,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400272,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400273,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400274,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400275,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400276,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400277,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400278,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400279,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400280,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400281,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400282,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400283,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400284,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400285,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400286,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400287,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400288,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400289,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400290,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400291,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400292,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400293,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400294,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400295,Kisumu General Hospital,Kisumu,2026-02-16,Dengue,A90
+KIS400296,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400297,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400298,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400299,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400300,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400301,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400302,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400303,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400304,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400305,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400306,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400307,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400308,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400309,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400310,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400311,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400312,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400313,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400314,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400315,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400316,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400317,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400318,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400319,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400320,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400321,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400322,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400323,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400324,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400325,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400326,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400327,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400328,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400329,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400330,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400331,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400332,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400333,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400334,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400335,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400336,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400337,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400338,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400339,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400340,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400341,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400342,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400343,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400344,Kisumu General Hospital,Kisumu,2026-02-16,Dengue,A90
+KIS400345,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400346,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400347,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400348,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400349,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400350,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400351,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400352,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400353,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400354,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400355,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400356,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400357,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400358,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400359,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400360,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400361,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400362,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400363,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400364,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400365,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400366,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400367,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400368,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400369,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400370,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400371,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400372,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400373,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400374,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400375,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400376,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400377,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400378,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400379,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400380,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400381,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400382,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400383,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400384,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400385,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400386,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400387,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400388,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400389,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400390,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400391,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400392,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400393,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400394,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400395,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400396,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400397,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400398,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400399,Kisumu Clinic,Kisumu,2026-02-16,Dengue,A90
+KIS400400,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400401,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400402,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400403,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400404,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400405,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400406,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400407,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400408,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400409,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400410,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400411,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400412,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400413,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400414,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400415,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400416,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400417,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400418,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400419,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400420,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400421,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400422,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400423,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400424,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400425,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400426,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400427,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400428,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400429,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400430,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400431,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400432,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400433,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400434,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400435,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400436,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400437,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400438,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400439,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400440,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400441,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400442,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400443,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400444,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400445,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400446,Kisumu General Hospital,Kisumu,2026-02-16,Typhoid,A01
+KIS400447,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400448,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400449,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400450,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400451,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400452,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400453,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400454,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400455,Kisumu Medical Center,Kisumu,2026-02-16,Typhoid,A01
+KIS400456,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400457,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400458,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400459,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400460,Kisumu Medical Center,Kisumu,2026-02-16,Cholera,A00
+KIS400461,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400462,Kisumu Medical Center,Kisumu,2026-02-16,Dengue,A90
+KIS400463,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400464,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400465,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400466,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400467,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400468,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400469,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400470,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400471,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400472,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400473,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400474,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400475,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400476,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400477,Kisumu Clinic,Kisumu,2026-02-16,Cholera,A00
+KIS400478,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400479,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400480,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400481,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400482,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400483,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400484,Kisumu General Hospital,Kisumu,2026-02-16,Cholera,A00
+KIS400485,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400486,Kisumu Clinic,Kisumu,2026-02-16,Typhoid,A01
+KIS400487,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400488,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400489,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400490,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400491,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400492,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400493,Kisumu Medical Center,Kisumu,2026-02-16,Influenza,J10
+KIS400494,Kisumu Medical Center,Kisumu,2026-02-16,Malaria,B50
+KIS400495,Kisumu General Hospital,Kisumu,2026-02-16,Influenza,J10
+KIS400496,Kisumu General Hospital,Kisumu,2026-02-16,Malaria,B50
+KIS400497,Kisumu Clinic,Kisumu,2026-02-16,Influenza,J10
+KIS400498,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+KIS400499,Kisumu Clinic,Kisumu,2026-02-16,Malaria,B50
+NAK400000,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400001,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400002,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400003,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400004,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400005,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400006,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400007,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400008,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400009,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400010,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400011,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400012,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400013,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400014,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400015,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400016,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400017,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400018,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400019,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400020,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400021,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400022,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400023,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400024,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400025,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400026,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400027,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400028,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400029,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400030,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400031,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400032,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400033,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400034,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400035,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400036,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400037,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400038,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400039,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400040,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400041,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400042,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400043,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400044,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400045,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400046,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400047,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400048,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400049,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400050,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400051,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400052,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400053,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400054,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400055,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400056,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400057,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400058,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400059,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400060,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400061,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400062,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400063,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400064,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400065,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400066,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400067,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400068,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400069,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400070,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400071,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400072,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400073,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400074,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400075,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400076,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400077,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400078,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400079,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400080,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400081,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400082,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400083,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400084,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400085,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400086,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400087,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400088,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400089,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400090,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400091,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400092,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400093,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400094,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400095,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400096,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400097,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400098,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400099,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400100,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400101,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400102,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400103,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400104,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400105,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400106,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400107,Nakuru Medical Center,Nakuru,2026-02-16,Cholera,A00
+NAK400108,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400109,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400110,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400111,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400112,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400113,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400114,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400115,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400116,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400117,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400118,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400119,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400120,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400121,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400122,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400123,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400124,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400125,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400126,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400127,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400128,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400129,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400130,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400131,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400132,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400133,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400134,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400135,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400136,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400137,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400138,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400139,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400140,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400141,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400142,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400143,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400144,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400145,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400146,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400147,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400148,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400149,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400150,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400151,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400152,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400153,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400154,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400155,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400156,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400157,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400158,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400159,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400160,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400161,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400162,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400163,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400164,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400165,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400166,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400167,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400168,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400169,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400170,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400171,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400172,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400173,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400174,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400175,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400176,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400177,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400178,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400179,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400180,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400181,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400182,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400183,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400184,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400185,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400186,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400187,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400188,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400189,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400190,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400191,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400192,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400193,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400194,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400195,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400196,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400197,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400198,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400199,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400200,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400201,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400202,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400203,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400204,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400205,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400206,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400207,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400208,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400209,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400210,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400211,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400212,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400213,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400214,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400215,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400216,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400217,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400218,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400219,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400220,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400221,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400222,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400223,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400224,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400225,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400226,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400227,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400228,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400229,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400230,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400231,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400232,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400233,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400234,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400235,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400236,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400237,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400238,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400239,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400240,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400241,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400242,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400243,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400244,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400245,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400246,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400247,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400248,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400249,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400250,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400251,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400252,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400253,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400254,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400255,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400256,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400257,Nakuru Medical Center,Nakuru,2026-02-16,Cholera,A00
+NAK400258,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400259,Nakuru Medical Center,Nakuru,2026-02-16,Cholera,A00
+NAK400260,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400261,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400262,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400263,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400264,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400265,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400266,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400267,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400268,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400269,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400270,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400271,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400272,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400273,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400274,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400275,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400276,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400277,Nakuru General Hospital,Nakuru,2026-02-16,Dengue,A90
+NAK400278,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400279,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400280,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400281,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400282,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400283,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400284,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400285,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400286,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400287,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400288,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400289,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400290,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400291,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400292,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400293,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400294,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400295,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400296,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400297,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400298,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400299,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400300,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400301,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400302,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400303,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400304,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400305,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400306,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400307,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400308,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400309,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400310,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400311,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400312,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400313,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400314,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400315,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400316,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400317,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400318,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400319,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400320,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400321,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400322,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400323,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400324,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400325,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400326,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400327,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400328,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400329,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400330,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400331,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400332,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400333,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400334,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400335,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400336,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400337,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400338,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400339,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400340,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400341,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400342,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400343,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400344,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400345,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400346,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400347,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400348,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400349,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400350,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400351,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400352,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400353,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400354,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400355,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400356,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400357,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400358,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400359,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400360,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400361,Nakuru General Hospital,Nakuru,2026-02-16,Cholera,A00
+NAK400362,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400363,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400364,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400365,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400366,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400367,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400368,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400369,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400370,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400371,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400372,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400373,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400374,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400375,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400376,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400377,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400378,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400379,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400380,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400381,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400382,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400383,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400384,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400385,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400386,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400387,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400388,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400389,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400390,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400391,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400392,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400393,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400394,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400395,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400396,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400397,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400398,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400399,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400400,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400401,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400402,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400403,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400404,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400405,Nakuru Clinic,Nakuru,2026-02-16,Dengue,A90
+NAK400406,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400407,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400408,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400409,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400410,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400411,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400412,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400413,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400414,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400415,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400416,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400417,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400418,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400419,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400420,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400421,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400422,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400423,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400424,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400425,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400426,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400427,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400428,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400429,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400430,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400431,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400432,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400433,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400434,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400435,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400436,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400437,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400438,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400439,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400440,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400441,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400442,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400443,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400444,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400445,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400446,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400447,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400448,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400449,Nakuru Medical Center,Nakuru,2026-02-16,Cholera,A00
+NAK400450,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400451,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400452,Nakuru Medical Center,Nakuru,2026-02-16,Cholera,A00
+NAK400453,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400454,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400455,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400456,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400457,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400458,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400459,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400460,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400461,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400462,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400463,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400464,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400465,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400466,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400467,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400468,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400469,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400470,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400471,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400472,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400473,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400474,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400475,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400476,Nakuru Medical Center,Nakuru,2026-02-16,Influenza,J10
+NAK400477,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400478,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400479,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400480,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400481,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400482,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400483,Nakuru Clinic,Nakuru,2026-02-16,Cholera,A00
+NAK400484,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400485,Nakuru Clinic,Nakuru,2026-02-16,Influenza,J10
+NAK400486,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400487,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400488,Nakuru Medical Center,Nakuru,2026-02-16,Typhoid,A01
+NAK400489,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400490,Nakuru Clinic,Nakuru,2026-02-16,Typhoid,A01
+NAK400491,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400492,Nakuru Medical Center,Nakuru,2026-02-16,Malaria,B50
+NAK400493,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400494,Nakuru Medical Center,Nakuru,2026-02-16,Dengue,A90
+NAK400495,Nakuru General Hospital,Nakuru,2026-02-16,Influenza,J10
+NAK400496,Nakuru General Hospital,Nakuru,2026-02-16,Malaria,B50
+NAK400497,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+NAK400498,Nakuru General Hospital,Nakuru,2026-02-16,Typhoid,A01
+NAK400499,Nakuru Clinic,Nakuru,2026-02-16,Malaria,B50
+ELD400000,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400001,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400002,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400003,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400004,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400005,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400006,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400007,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400008,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400009,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400010,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400011,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400012,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400013,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400014,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400015,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400016,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400017,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400018,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400019,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400020,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400021,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400022,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400023,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400024,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400025,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400026,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400027,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400028,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400029,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400030,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400031,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400032,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400033,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400034,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400035,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400036,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400037,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400038,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400039,Eldoret Medical Center,Eldoret,2026-02-16,Cholera,A00
+ELD400040,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400041,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400042,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400043,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400044,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400045,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400046,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400047,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400048,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400049,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400050,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400051,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400052,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400053,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400054,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400055,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400056,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400057,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400058,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400059,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400060,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400061,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400062,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400063,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400064,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400065,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400066,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400067,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400068,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400069,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400070,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400071,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400072,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400073,Eldoret Medical Center,Eldoret,2026-02-16,Cholera,A00
+ELD400074,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400075,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400076,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400077,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400078,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400079,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400080,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400081,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400082,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400083,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400084,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400085,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400086,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400087,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400088,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400089,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400090,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400091,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400092,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400093,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400094,Eldoret Medical Center,Eldoret,2026-02-16,Cholera,A00
+ELD400095,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400096,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400097,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400098,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400099,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400100,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400101,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400102,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400103,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400104,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400105,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400106,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400107,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400108,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400109,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400110,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400111,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400112,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400113,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400114,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400115,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400116,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400117,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400118,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400119,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400120,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400121,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400122,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400123,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400124,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400125,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400126,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400127,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400128,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400129,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400130,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400131,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400132,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400133,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400134,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400135,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400136,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400137,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400138,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400139,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400140,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400141,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400142,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400143,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400144,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400145,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400146,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400147,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400148,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400149,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400150,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400151,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400152,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400153,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400154,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400155,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400156,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400157,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400158,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400159,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400160,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400161,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400162,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400163,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400164,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400165,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400166,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400167,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400168,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400169,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400170,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400171,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400172,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400173,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400174,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400175,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400176,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400177,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400178,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400179,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400180,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400181,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400182,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400183,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400184,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400185,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400186,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400187,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400188,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400189,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400190,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400191,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400192,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400193,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400194,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400195,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400196,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400197,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400198,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400199,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400200,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400201,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400202,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400203,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400204,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400205,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400206,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400207,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400208,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400209,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400210,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400211,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400212,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400213,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400214,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400215,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400216,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400217,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400218,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400219,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400220,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400221,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400222,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400223,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400224,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400225,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400226,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400227,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400228,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400229,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400230,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400231,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400232,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400233,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400234,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400235,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400236,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400237,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400238,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400239,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400240,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400241,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400242,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400243,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400244,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400245,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400246,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400247,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400248,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400249,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400250,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400251,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400252,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400253,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400254,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400255,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400256,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400257,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400258,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400259,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400260,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400261,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400262,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400263,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400264,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400265,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400266,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400267,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400268,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400269,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400270,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400271,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400272,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400273,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400274,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400275,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400276,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400277,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400278,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400279,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400280,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400281,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400282,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400283,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400284,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400285,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400286,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400287,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400288,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400289,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400290,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400291,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400292,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400293,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400294,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400295,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400296,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400297,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400298,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400299,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400300,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400301,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400302,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400303,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400304,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400305,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400306,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400307,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400308,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400309,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400310,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400311,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400312,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400313,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400314,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400315,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400316,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400317,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400318,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400319,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400320,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400321,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400322,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400323,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400324,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400325,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400326,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400327,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400328,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400329,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400330,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400331,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400332,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400333,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400334,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400335,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400336,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400337,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400338,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400339,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400340,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400341,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400342,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400343,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400344,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400345,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400346,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400347,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400348,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400349,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400350,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400351,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400352,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400353,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400354,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400355,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400356,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400357,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400358,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400359,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400360,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400361,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400362,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400363,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400364,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400365,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400366,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400367,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400368,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400369,Eldoret General Hospital,Eldoret,2026-02-16,Typhoid,A01
+ELD400370,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400371,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400372,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400373,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400374,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400375,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400376,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400377,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400378,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400379,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400380,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400381,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400382,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400383,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400384,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400385,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400386,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400387,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400388,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400389,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400390,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400391,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400392,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400393,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400394,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400395,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400396,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400397,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400398,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400399,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400400,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400401,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400402,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400403,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400404,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400405,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400406,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400407,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400408,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400409,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400410,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400411,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400412,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400413,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400414,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400415,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400416,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400417,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400418,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400419,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400420,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400421,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400422,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400423,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400424,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400425,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400426,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400427,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400428,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400429,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400430,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400431,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400432,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400433,Eldoret General Hospital,Eldoret,2026-02-16,Cholera,A00
+ELD400434,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400435,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400436,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400437,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400438,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400439,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400440,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400441,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400442,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400443,Eldoret Clinic,Eldoret,2026-02-16,Cholera,A00
+ELD400444,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400445,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400446,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400447,Eldoret Clinic,Eldoret,2026-02-16,Dengue,A90
+ELD400448,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400449,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400450,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400451,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400452,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400453,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400454,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400455,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400456,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400457,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400458,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400459,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400460,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400461,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400462,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400463,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400464,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400465,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400466,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400467,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400468,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400469,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400470,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400471,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400472,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400473,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400474,Eldoret Medical Center,Eldoret,2026-02-16,Typhoid,A01
+ELD400475,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400476,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400477,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400478,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400479,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400480,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400481,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400482,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400483,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50
+ELD400484,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400485,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400486,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400487,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400488,Eldoret Clinic,Eldoret,2026-02-16,Malaria,B50
+ELD400489,Eldoret Medical Center,Eldoret,2026-02-16,Influenza,J10
+ELD400490,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400491,Eldoret General Hospital,Eldoret,2026-02-16,Influenza,J10
+ELD400492,Eldoret Clinic,Eldoret,2026-02-16,Influenza,J10
+ELD400493,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400494,Eldoret Clinic,Eldoret,2026-02-16,Typhoid,A01
+ELD400495,Eldoret Medical Center,Eldoret,2026-02-16,Dengue,A90
+ELD400496,Eldoret General Hospital,Eldoret,2026-02-16,Dengue,A90
+ELD400497,Eldoret General Hospital,Eldoret,2026-02-16,Malaria,B50
+ELD400498,Eldoret Medical Center,Eldoret,2026-02-16,Cholera,A00
+ELD400499,Eldoret Medical Center,Eldoret,2026-02-16,Malaria,B50

@@ -1,0 +1,9 @@
+{
+  "writerVersion" : "438",
+  "location" : "s3a://curated/",
+  "ownerName" : "trino",
+  "ownerType" : "USER",
+  "parameters" : {
+    "trino_query_id" : "20260219_130755_00002_4fijv"
+  }
+}

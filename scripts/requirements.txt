@@ -1,0 +1,7 @@
+pandas
+minio
+numpy 
+openpyxl 
+pyspark
+trino
+sqlalchemy-trino
