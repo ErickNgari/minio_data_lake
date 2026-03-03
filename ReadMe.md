@@ -1,10 +1,21 @@
-Access URLs
+# Failed to download kafka ui
+
+export DOCKER_CLIENT_TIMEOUT=300
+export COMPOSE_HTTP_TIMEOUT=300
+docker compose pull kafka-ui
+
+# Access URLs
+
 Service URL
 MinIO http://localhost:9001
 
 Spark UI http://localhost:8080
 
 Trino http://localhost:8085
+
+Kafka http://localhost:9092
+
+Kafka UI http://localhost:8090
 
 Superset http://localhost:8088
 
@@ -26,7 +37,7 @@ docker-compose restart trino
 # getinto trino
 
 docker exec -it trino trino --server localhost:8080
-
+show catalogs;
 #create schema
 CREATE SCHEMA IF NOT EXISTS hive.public_health
 WITH (location = 's3a://curated/');
@@ -60,4 +71,5 @@ docker exec -it superset bash -lc "pip show superset-trino sqlalchemy-trino trin
 
 docker exec -it superset bash -lc "pip install --no-cache-dir superset-trino sqlalchemy-trino trino"
 docker restart superset
+
 # minio_data_lake

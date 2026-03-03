@@ -5,3 +5,5 @@ openpyxl
 pyspark
 trino
 sqlalchemy-trino
+kafka
+six
